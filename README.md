@@ -50,4 +50,4 @@ Este proyecto es una aplicación móvil desarrollada en **Flutter** con integrac
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/crm_app.git
+   git clone https://github.com/wilsonder/crm_project.git
